@@ -93,7 +93,7 @@ h2 span:not(:first-child) {
 
 [data-style="pill"] img {
   margin-right: 10px;
-}
+} 
 
 @media screen and (min-width: 768px) {
   h1 {
